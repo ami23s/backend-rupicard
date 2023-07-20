@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dependable-glow-393407",
+  "private_key_id": "e85e00432d912d31b3c78d4f78288daf0814884e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmU8WWzsEK2519\nTeydgqP5h/dTSQdlOOJC2irZnGHqHtW8TM8wwUaLirzAeUb94rO5xCrKQ7g54Acg\nt2XBfI0Mn2fDpczuHIt0982rY94tainbU6PJAz2Pg4QM52EkLNwKswRiriA5alqY\ndK0HemhRX0aH6O0FjIl2SMO25G7zfBoFVx5FTwk/IXrn4xQ35PxVYww08pfO5HCg\n2oDXHRTIUBvb8rOzUbmZ5LLPTcyTpurqbwlnF1Ufi0p1z7nwCY32IQocVrCLyDrE\nRI1GI0Ig8pLIAtuvVGPNKstUQihos0lhx+TTeqSovTUELgV/LO9pcT1KqmCuot5I\n3tLZ6X6JAgMBAAECggEAAKCYyKzefLuVZbp5GwK4lJzosQrhYMazYxA6Dqas45ja\n5yzkYZMdMJMbqYCLD3T3HVnp7ewaS9oO2ul09v5yWebzPuasNLfSL2rfXgijGceQ\nvp6vMwR1vfbTPL/ClXkjzkmniOdFgjKGdaTXtc4BC7uxMvyQ7LNxymcvVUew/6vF\nCXbUiB03cmfTvpnHPmMVPznectHakIfNsEa/EX1+J0sWFcsBCaQcIBbnlQLAAkrU\nMaKtKzi6W0iwMCYqDbIhgy7Q3nnxAqHm1LFy4VHTW+89awlE2Q5gJtOn12OiYcuB\n5t85YKwTqSyue9re6wd+Dq22RBtZdRuwviPS0lPOKQKBgQD89bCVjOvXJSA5+i16\nXi9apYhznvnPeLzV3r8ikiUVA/2W/N4ZaisWsSpomwFa0DFQza4u0ZnoMW8mjE9h\n30ANNqEs6dHP+0jIupH1sT7P9dNl+U3OJ+Bl6S2TcKv5DNt1KVi/Vqibbsa3ycgg\nRsFfCn6uVnJEfo3bchNYZC74vQKBgQDpGHIxUMVZXbwysLlo2fVClpbwhFQEvOMq\nxzhGRCn9NI+lUECWfgD3PU0L8GqIpkqYurLK9EseCJPvFL0Bf6vNvk++qRwzo/xF\ncUY09K/XnyXXE/8UO9am1TTo8faaTmCCpUAthjU7x3R4J/Za90sru8hUaafiKiIh\n6sc7I8x3vQKBgBOOv19grN9OfIZfBGMgoxKkF7+wu+nBkQAMH8UBfaJ5U4L3/AgF\nAF3Zxsidq2YlEJsJu/zcscSVBd36HS0ZAK/E2INLdLBa4k66tgxD7vJPNE//DXfx\n91SJyb9Lh9BSoSkW0EjC33hdATo2fKWaMtsxSYgbIOyQyFD+Kea8oDEVAoGBAIkc\nXh9wGYXlw0w18/ofK0uN9R9pV1qqGR4SraF3exN8FXryZ+ueFsdYAbgiJShYWMza\nFU2YwY7bENmzYzI8fTy604GdS/98WGoopVmFDOJStRl8o7CtOihMhaD4o0xFCjQP\nLF8a8LlHK9V5/Emp6UfCX6Z3t88rZYR569N3zVApAoGBALOsm1bD1kF97Z8eplB4\nDve9bHPsgd7QQwjjSJIsPsUojjpb9W/u4UWjs+fTvIekKxbH9scZ1MPoVFFcGjld\nqb5XxVFxYTomAyJsYBAE6W6D0VTJ38Q+PS4Rqa+1eohU9HiuTKwejG5DER/WgwRo\n7FEqg3jgwyeOaFZOq0/jFo64\n-----END PRIVATE KEY-----\n",
+  "client_email": "amitesh@dependable-glow-393407.iam.gserviceaccount.com",
+  "client_id": "111929093872084531699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amitesh%40dependable-glow-393407.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
