@@ -11,7 +11,9 @@ app.use(express.json())
 app.use(express.urlencoded({ extended:false }))
 
 app.use('/api/data', require('./routes/data'))
-
+app.use('/', (req, res) => {
+    res.send({"hello": "world"})
+})
 // connectDB()
 
 // app.use(errorHandler)
